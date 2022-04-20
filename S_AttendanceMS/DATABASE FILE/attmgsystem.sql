@@ -1,20 +1,10 @@
--- phpMyAdmin SQL Dump
--- version 4.6.5.2
--- https://www.phpmyadmin.net/
---
--- Host: 127.0.0.1
--- Generation Time: Apr 10, 2021 at 08:50 PM
--- Server version: 5.6.21
--- PHP Version: 5.6.3
+
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 
 
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8mb4 */;
+
 
 --
 -- Database: `attmgsystem`
@@ -39,16 +29,12 @@ CREATE TABLE `admininfo` (
 -- Dumping data for table `admininfo`
 --
 
-INSERT INTO `admininfo` (`username`, `password`, `email`, `fname`, `phone`, `type`) VALUES
-('admin', 'admin', 'admin@gmail.com', 'admin', '2147483647', 'admin'),
-('christine', 'password', 'christine@gmail.com', 'Christine', '4512224500', 'student'),
-('john', 'password', 'john@gmail.com', 'John Walker', '8541112450', 'student'),
-('kevin', 'password', 'kevinm@gmail.com', 'Kevin Moore', '1247778540', 'teacher');
+
 
 -- --------------------------------------------------------
 
 --
--- Table structure for table `attendance`
+
 --
 
 CREATE TABLE `attendance` (
@@ -62,18 +48,6 @@ CREATE TABLE `attendance` (
 -- Dumping data for table `attendance`
 --
 
-INSERT INTO `attendance` (`stat_id`, `course`, `st_status`, `stat_date`) VALUES
-('1', 'algo', 'Present', '2018-11-14'),
-('2', 'algo', 'Present', '2018-11-13'),
-('1', 'algo', 'Absent', '2018-11-13'),
-('1', 'algo', 'Absent', '2021-04-10'),
-('2', 'algo', 'Present', '2021-04-10'),
-('3', 'algo', 'Absent', '2021-04-10'),
-('4', 'algo', 'Absent', '2021-04-10'),
-('5', 'algo', 'Present', '2021-04-10'),
-('5', 'obm', 'Present', '2021-04-10'),
-('2', 'weblab', 'Absent', '2021-04-10'),
-('4', 'weblab', 'Present', '2021-04-10');
 
 -- --------------------------------------------------------
 
