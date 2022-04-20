@@ -44,4 +44,11 @@ Database:MySQL (used XAMPP software)
 
 ![localhost _ 127 0 0 1 _ attm _ attendance _ phpMyAdmin 4 2 11 - Personal - Microsoft​ Edge 4_20_2022 11_48_06 PM](https://user-images.githubusercontent.com/59620280/164297076-ea4913b2-d4c9-4ff7-a44e-1647bac5c6f3.png)
 
+![Attendance Management System - Google Chrome 4_20_2022 11_52_41 PM](https://user-images.githubusercontent.com/59620280/164297344-74402a06-4817-4979-8777-be770a6c711c.png)
+
+![Attendance Management System - Google Chrome 4_20_2022 11_52_46 PM](https://user-images.githubusercontent.com/59620280/164297367-7d234368-f58e-41df-b4c3-359a980ed425.png)
+
+![Attendance Management System - Google Chrome 4_20_2022 11_52_52 PM](https://user-images.githubusercontent.com/59620280/164297393-569e03b2-9629-4350-a895-34c2983e01d1.png)
+
+
 
