@@ -50,5 +50,8 @@ Database:MySQL (used XAMPP software)
 
 ![Attendance Management System - Google Chrome 4_20_2022 11_52_52 PM](https://user-images.githubusercontent.com/59620280/164297393-569e03b2-9629-4350-a895-34c2983e01d1.png)
 
+![Attendance Management System - Google Chrome 4_20_2022 11_55_20 PM](https://user-images.githubusercontent.com/59620280/164297735-70ef8ec8-a842-4e23-b17c-860577986724.png)
+
+![Attendance Management System - Google Chrome 4_20_2022 11_55_40 PM](https://user-images.githubusercontent.com/59620280/164297758-0e565254-c378-4776-a855-55469322eeaf.png)
 
 
