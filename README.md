@@ -31,3 +31,17 @@ Database:MySQL (used XAMPP software)
 7)Images
 
 ![localhost _ 127 0 0 1 _ attm _ attendance _ phpMyAdmin 4 2 11 - Personal - Microsoft​ Edge 4_20_2022 11_48_06 PM](https://user-images.githubusercontent.com/59620280/164296761-ff55edc7-0daa-470e-ba96-3f964825e572.png)
+
+![Attendance Management System - Google Chrome 4_20_2022 11_47_51 PM](https://user-images.githubusercontent.com/59620280/164296892-cd5a03ff-4f18-46c2-8a96-39cad9849721.png)
+
+![Attendance Management System - Google Chrome 4_20_2022 11_48_20 PM](https://user-images.githubusercontent.com/59620280/164296935-bd73da50-276f-48b0-b6ee-43d6ea417dc7.png)
+
+![Attendance Management System - Google Chrome 4_20_2022 11_48_33 PM](https://user-images.githubusercontent.com/59620280/164296972-649a30af-4d25-4d01-9b4e-ea3f8aa38cd8.png)
+
+![Attendance Management System - Google Chrome 4_20_2022 11_48_45 PM](https://user-images.githubusercontent.com/59620280/164297016-ce506185-b645-4ca1-9e92-319e704e0834.png)
+
+![localhost _ 127 0 0 1 _ attm _ attendance _ phpMyAdmin 4 2 11 - Personal - Microsoft​ Edge 4_20_2022 11_48_04 PM](https://user-images.githubusercontent.com/59620280/164297047-fcd6ca98-6f0a-4fd9-a2f3-a7552f27ff8e.png)
+
+![localhost _ 127 0 0 1 _ attm _ attendance _ phpMyAdmin 4 2 11 - Personal - Microsoft​ Edge 4_20_2022 11_48_06 PM](https://user-images.githubusercontent.com/59620280/164297076-ea4913b2-d4c9-4ff7-a44e-1647bac5c6f3.png)
+
+
