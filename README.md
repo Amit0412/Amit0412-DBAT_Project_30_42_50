@@ -1,17 +1,17 @@
 DBAT_Project_30_42_50
 
-#Topic:Attendance Management System
+1)Topic:Attendance Management System
 
-#Group Members:
+2)Group Members:
               Akshat Chabra EN19CS301030
               Amit Pandharikar EN19CS301042
               Ananya Gupta:EN19CS30150
               
-#Class:CS-A
+3)Class:CS-A
 
-#Subject:DBAT
+4)Subject:DBAT
 
-#Technology
+5)Technology
 
 Frontend:Bootstrap
 
@@ -19,7 +19,7 @@ Backend:PHP
 
 Database:MySQL (used XAMPP software)
 
-#How to run the project?
+6)How to run the project?
 
  a)Install XAMPP software in your device.
  
@@ -28,5 +28,5 @@ Database:MySQL (used XAMPP software)
  c)Run the program on localhost and keep running phpmyadmin.
  
  
-#Images
+7)Images
 
