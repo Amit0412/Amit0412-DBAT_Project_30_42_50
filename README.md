@@ -11,8 +11,11 @@ DBAT_Project_30_42_50
 
 #Subject:DBAT
 
-#Technology used
+#Technology
+
 Frontend:Bootstrap
+
 Backend:PHP
+
 Database:MySQL (used XAMPP software)
 
