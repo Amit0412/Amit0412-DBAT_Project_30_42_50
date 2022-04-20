@@ -19,3 +19,9 @@ Backend:PHP
 
 Database:MySQL (used XAMPP software)
 
+#How to run the project?
+ a)Install XAMPP software in your device.
+ 
+ b)Import sql file from codebase in XAMPP.
+ 
+ c)Run the program on localhost and keep running phpmyadmin.
